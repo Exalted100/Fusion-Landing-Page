@@ -403,6 +403,10 @@ body {
         margin-top: 20px;
     }
 
+    .space {
+        height: 10px;
+    }
+
     .buy {
         border-radius: 30px;
         margin: 30px 30px;
@@ -432,7 +436,7 @@ body {
         border-radius: 5px;
         background-color: white;
         margin: 20px auto;
-        height: 230px;
+        height: 270px;
     }
     
     #comments-grid div img {
@@ -966,6 +970,10 @@ textarea {
 
 #plus-grid {
     justify-self: center;
+}
+
+.space {
+    height: 10px;
 }
 
 .buy {
